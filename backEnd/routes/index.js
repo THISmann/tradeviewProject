@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/api/', function(req, res, next) {
-  res.render('index', { title: "hello mon api"})
+  res.render('index', { title: "hello mon api etienne fuh"})
 })
 
 module.exports = router;
