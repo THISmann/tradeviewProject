@@ -255,4 +255,4 @@ jobs:
 
 Tu peux ensuite améliorer ton projet en ajoutant des  **indicateurs techniques** ,  **une authentification** , ou  **des notifications Telegram** .
 
-🔥 Ça te va comme projet d'initiation ? 😊
+ 
